@@ -1,6 +1,17 @@
-body {
+body
+{
     color: #333;
     text-align: center;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+=======
+=======
+>>>>>>> cabecera
+>>>>>>> master
     font-family: Arial;
     font-size: 16px;
     margin: 0;
@@ -24,16 +35,20 @@ body {
 
 #container {
     width: 70%;
+>>>>>>> cabecera
     padding: 0;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
     text-align: left;
     border: 1px solid #ddd;
-    margin: 0 auto
+    margin: 0 auto;
 }
 
-#container h1 {
-    font-size: 20px
-}
-
-#post {
-    padding: 1em
+#container h1
+{
+    font-size: 20px;
 }
